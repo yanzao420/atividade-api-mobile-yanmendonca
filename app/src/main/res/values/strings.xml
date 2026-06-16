@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="titulo_principal">Consulta de Endereço por CEP</string>
+    <string name="hint_cep">Digite o CEP (apenas números)</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="label_resultado">Resultado da consulta</string>
+    <string name="erro_campo_vazio">Informe um CEP antes de consultar.</string>
+    <string name="erro_cep_invalido">CEP inválido. Informe 8 dígitos numéricos.</string>
+    <string name="erro_cep_nao_encontrado">CEP não encontrado. Verifique o número informado.</string>
+    <string name="erro_requisicao">Não foi possível consultar a API. Verifique sua conexão e tente novamente.</string>
+    <string name="erro_resposta_invalida">Resposta inválida recebida da API.</string>
+    <string name="consultando">Consultando…</string>
+    <string name="label_logradouro">Logradouro</string>
+    <string name="label_bairro">Bairro</string>
+    <string name="label_cidade">Cidade</string>
+    <string name="label_uf">UF</string>
+    <string name="label_cep">CEP</string>
+    <string name="label_ddd">DDD</string>
+    <string name="texto_instrucao">Informe um CEP brasileiro para buscar o endereço na API ViaCEP.</string>
+    <string name="valor_vazio">—</string>
+</resources>
